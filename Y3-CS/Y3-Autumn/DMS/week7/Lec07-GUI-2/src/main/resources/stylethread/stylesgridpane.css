@@ -1,0 +1,18 @@
+#gridPane {
+    -fx-border-width: 10;
+    -fx-border-color: orange;
+}
+
+.button {
+    -fx-text-fill: red;
+}
+
+.check-box {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-border-color: inherit;
+}
+
+#checkBoxYes {
+    -fx-font-size: 25;
+}

@@ -1,0 +1,26 @@
+Adding (Rob, 750)
+ Scoreboard: [(Rob, 750)]
+Adding (Mike, 1105)
+ Scoreboard: [(Mike, 1105), (Rob, 750)]
+Adding (Rose, 590)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Rose, 590)]
+Adding (Jill, 740)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Jill, 740), (Rose, 590)]
+Adding (Jack, 510)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Jill, 740), (Rose, 590), (Jack, 510)]
+Adding (Anna, 660)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Jill, 740), (Anna, 660), (Rose, 590)]
+Adding (Paul, 720)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Jill, 740), (Paul, 720), (Anna, 660)]
+Adding (Bob, 400)
+ Scoreboard: [(Mike, 1105), (Rob, 750), (Jill, 740), (Paul, 720), (Anna, 660)]
+Removing score at index 3
+[(Mike, 1105), (Rob, 750), (Jill, 740), (Anna, 660)]
+Removing score at index 0
+[(Rob, 750), (Jill, 740), (Anna, 660)]
+Removing score at index 1
+[(Rob, 750), (Anna, 660)]
+Removing score at index 1
+[(Rob, 750)]
+Removing score at index 0
+[]

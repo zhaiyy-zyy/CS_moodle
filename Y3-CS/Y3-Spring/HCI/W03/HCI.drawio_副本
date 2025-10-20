@@ -1,0 +1,559 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.16">
+  <diagram name="第 1 页" id="OzSYy7CuMjY1Zwhf2daT">
+    <mxGraphModel dx="574" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-1" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;0.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;buy a book&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#3399FF,#FFFFFF);fillColor=light-dark(#66B2FF,#FFFFFF);align=left;" parent="1" vertex="1">
+          <mxGeometry x="770" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="d5FiifpwVy0fxvkNEPwC-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="200" as="sourcePoint" />
+            <mxPoint x="330" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-4" value="&lt;font face=&quot;Verdana&quot;&gt;1.&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;visit the book purchasing website&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-5" value="&lt;font face=&quot;Verdana&quot;&gt;2.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;enter the title of the book in the search bar&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="600" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-6" value="&lt;font face=&quot;Verdana&quot;&gt;2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;search and choose a book&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-7" value="&lt;font face=&quot;Verdana&quot;&gt;2.4.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;view book information&amp;nbsp;&lt;span style=&quot;&quot;&gt;(price, version, description, etc.)&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1170" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-10" value="&lt;font face=&quot;Verdana&quot;&gt;2.5.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;decide whether to buy the book&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1350" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-11" value="&lt;font face=&quot;Verdana&quot;&gt;4.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp;go to checkout&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1080" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-13" value="&lt;font face=&quot;Verdana&quot;&gt;5.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;confirm order information&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1420" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-14" value="&lt;font face=&quot;Verdana&quot;&gt;1.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;go to the homepage of the website&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-15" value="&lt;font face=&quot;Verdana&quot;&gt;2.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;choose the desired book&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="780" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-16" value="&lt;font face=&quot;Verdana&quot;&gt;3.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;choose purchase quantity&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="810" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-17" value="&lt;font face=&quot;Verdana&quot;&gt;3.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;choose whether to continue shopping&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="990" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-19" value="&lt;font face=&quot;Verdana&quot;&gt;4.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;new users (no account)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1080" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-20" value="&lt;font face=&quot;Verdana&quot;&gt;4.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;returning customers (existing accounts)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1270" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;4.1.1.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; create account or &amp;nbsp;g&lt;/font&gt;&lt;span style=&quot;&quot;&gt;uest checkout&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1080" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-22" value="&lt;font face=&quot;Verdana&quot;&gt;4.1.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;fill in delivery information&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1310" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;4.2.2.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;confirm, modify or add delivery information&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1390" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-24" value="&lt;font face=&quot;Verdana&quot;&gt;4.2.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;log in to the account directly&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1241" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-26" value="&lt;font face=&quot;Verdana&quot;&gt;4.1.3.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;choose payment method&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1540" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-27" value="&lt;font face=&quot;Verdana&quot;&gt;4.1.4.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;confirm order and pay&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1750" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-28" value="&lt;font face=&quot;Verdana&quot; style=&quot;text-align: left;&quot;&gt;4.2.3.&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;choose payment method&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1540" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-31" value="&lt;font face=&quot;Verdana&quot;&gt;4.2.4.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;confirm order and pay&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1690" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-34" value="&lt;font face=&quot;Verdana&quot;&gt;5.3.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; wait for delivery&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1740" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-35" value="&lt;font face=&quot;Verdana&quot;&gt;5.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;check the order information&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1420" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-36" value="&lt;font face=&quot;Verdana&quot;&gt;5.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp;track the order&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1570" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-38" value="&lt;font face=&quot;Verdana&quot; style=&quot;text-align: left;&quot;&gt;3.&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; add book to cart&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="840" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-43" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="2010" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="d5FiifpwVy0fxvkNEPwC-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="470" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-50" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="d5FiifpwVy0fxvkNEPwC-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="440" as="sourcePoint" />
+            <mxPoint x="910" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="1480" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-53" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="540" as="sourcePoint" />
+            <mxPoint x="720" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-54" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="540" as="sourcePoint" />
+            <mxPoint x="910" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-55" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="540" as="sourcePoint" />
+            <mxPoint x="1090" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-56" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="540" as="sourcePoint" />
+            <mxPoint x="1300" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-57" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="540" as="sourcePoint" />
+            <mxPoint x="1350" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-58" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.175;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="570" as="sourcePoint" />
+            <mxPoint x="920" y="279.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-59" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="570" as="sourcePoint" />
+            <mxPoint x="1270" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-60" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="670" as="sourcePoint" />
+            <mxPoint x="1110" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-61" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="670" as="sourcePoint" />
+            <mxPoint x="930" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-62" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="690" as="sourcePoint" />
+            <mxPoint x="1130" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-63" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="690" as="sourcePoint" />
+            <mxPoint x="1390" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-9" value="&lt;font face=&quot;Verdana&quot;&gt;2.3.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;go to the book detail page&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="960" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-64" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="d5FiifpwVy0fxvkNEPwC-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="870" as="sourcePoint" />
+            <mxPoint x="1200" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-65" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="770" as="sourcePoint" />
+            <mxPoint x="1290" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-67" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="870" as="sourcePoint" />
+            <mxPoint x="1880" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-68" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1241" y="960" as="sourcePoint" />
+            <mxPoint x="1811" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-69" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="1080" as="sourcePoint" />
+            <mxPoint x="1520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-70" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="1080" as="sourcePoint" />
+            <mxPoint x="1410" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-72" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1361" y="1060" as="sourcePoint" />
+            <mxPoint x="1241" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-73" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="1060" as="sourcePoint" />
+            <mxPoint x="1510" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-74" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="1060" as="sourcePoint" />
+            <mxPoint x="1540" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-75" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1810" y="1060" as="sourcePoint" />
+            <mxPoint x="1690" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-76" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="1160" as="sourcePoint" />
+            <mxPoint x="1540" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-77" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1641" y="1150" as="sourcePoint" />
+            <mxPoint x="1640" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-78" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="1160" as="sourcePoint" />
+            <mxPoint x="1860" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-79" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="950" as="sourcePoint" />
+            <mxPoint x="1200" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-80" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="950" as="sourcePoint" />
+            <mxPoint x="1430" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-81" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="950" as="sourcePoint" />
+            <mxPoint x="1660" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-82" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="950" as="sourcePoint" />
+            <mxPoint x="1870" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-85" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px; white-space: nowrap; font-weight: normal;&quot;&gt;plan 0.&lt;/font&gt;&lt;div style=&quot;font-size: 12px; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; at the same time,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;nbsp;if the book is confirmed,&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;nbsp;do 3&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; then 4&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;white-space-collapse: collapse; font-weight: normal;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; a&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;fter payment, do 5&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="100" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-87" value="plan 1&lt;div&gt;&amp;nbsp; &amp;nbsp; do 1.1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-88" value="&lt;font face=&quot;Verdana&quot;&gt;plan 2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 2.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the book is confirmed, do 2.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if unsure, do 2.3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; then 2.4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if comparing books, repeat 2.1 - 2.4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; After reviewing,&amp;nbsp;&lt;span class=&quot;s1&quot;&gt;do&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;s2&quot;&gt;2.5&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="310" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-89" value="&lt;font face=&quot;Verdana&quot;&gt;5.2.1.&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;view order number&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1590" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-90" value="&lt;font style=&quot;text-align: left;&quot; face=&quot;Verdana&quot;&gt;5.2.3.&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;view estimated delivery time&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1870" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-91" value="&lt;font style=&quot;text-align: left;&quot; face=&quot;Verdana&quot;&gt;5.2.2.&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;view shipment date&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1730" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-92" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="1210" as="sourcePoint" />
+            <mxPoint x="1990" y="1210.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-93" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="1290" as="sourcePoint" />
+            <mxPoint x="1710" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-94" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="1290" as="sourcePoint" />
+            <mxPoint x="1850" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-95" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="1290" as="sourcePoint" />
+            <mxPoint x="1990" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-96" value="&lt;font face=&quot;Verdana&quot;&gt;plan 3&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 3.1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; then 3.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the users continue shopping, go 2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if not, do 4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the users do not want to buy, allow 3.3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="315" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-97" value="&lt;font face=&quot;Verdana&quot;&gt;plan 4&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if new user, do 4.1.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; else if returning user, do 4.2.1&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1151" y="290" width="229" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-98" value="&lt;font face=&quot;Verdana&quot;&gt;plan 5&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 5.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; then 5.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the order has shipped, do 5.3&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="290" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-99" value="&lt;font face=&quot;Verdana&quot;&gt;plan 4.1&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;if the user chooses create account, do 4.1.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;else if the user choose guest checkout, skip 4.1.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;then 4.1.2 - 4.1.3 -4.1.4&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
+          <mxGeometry x="780" y="780" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-100" value="&lt;font face=&quot;Verdana&quot;&gt;plan 4.2&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if&amp;nbsp;the account is logged in, skip 4.2.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if not, do 4.2.1&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the user has a saved address, skip 4.2.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if not and need to modify or add &amp;nbsp;the delivery information, do 4.2.2&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; then 4.2.3 - 4.2.4&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="770" width="530" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-101" value="&lt;font face=&quot;Verdana&quot;&gt;plan 5.2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 5.2.1 - 5.2.2 - 5.2.3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;font&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1647" y="1160" width="306" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-110" value="&lt;font face=&quot;Verdana&quot;&gt;3.3.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;remove items from the shopping cart&lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1151" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-111" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1271" y="670" as="sourcePoint" />
+            <mxPoint x="1151" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-112" value="&lt;font face=&quot;Verdana&quot;&gt;6.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;order after-sales service&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1887.5" y="220" width="122.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-113" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;6.1.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;confirm the receipt of goods&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="1930" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-114" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;6.2.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;apply for after-sales service&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2080" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0.878;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" target="d5FiifpwVy0fxvkNEPwC-112" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="1300" as="sourcePoint" />
+            <mxPoint x="2050" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-117" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1930" y="1300" as="sourcePoint" />
+            <mxPoint x="2200" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-118" value="&lt;font face=&quot;Verdana&quot;&gt;plan 6&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the user satisfied with the product, do 6.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if not, do 6.2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="305" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-119" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1930" y="1380" as="sourcePoint" />
+            <mxPoint x="2050" y="1380.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-121" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;6.2.1.2.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;specify the reason for return and the return method&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2270" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-122" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; return the goods&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2100" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-123" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.2.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;exchange the goods&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2260" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-124" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;6.2.1.3.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;send the goods&amp;nbsp;to the merchant&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2420" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-125" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;6.2.1.4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;wait for refund&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2550" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-126" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;6.2.2.2.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;specify the reason for exchange and exchange method&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2390" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-127" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;6.2.2.3.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;send the goods to the merchant&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2540" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-128" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;6.2.2.4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;wait for replacement product&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#66B2FF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry x="2700" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-129" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140" y="1440" as="sourcePoint" />
+            <mxPoint x="2140" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-130" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="1440" as="sourcePoint" />
+            <mxPoint x="2710" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="d5FiifpwVy0fxvkNEPwC-122" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160" y="1550" as="sourcePoint" />
+            <mxPoint x="2230" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-132" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0.897;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="GkUSuG0QqaB28RqsyGLk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="1550" as="sourcePoint" />
+            <mxPoint x="2690" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-133" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2260" y="1640" as="sourcePoint" />
+            <mxPoint x="2260" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-134" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="1640" as="sourcePoint" />
+            <mxPoint x="2820" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-135" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2240" y="1720" as="sourcePoint" />
+            <mxPoint x="2360" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-136" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2390" y="1720" as="sourcePoint" />
+            <mxPoint x="2510" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-137" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2540" y="1720" as="sourcePoint" />
+            <mxPoint x="2660" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-138" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="1629.7" as="sourcePoint" />
+            <mxPoint x="2220" y="1629.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-139" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2270" y="1629.7" as="sourcePoint" />
+            <mxPoint x="2390" y="1629.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-140" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2420" y="1630" as="sourcePoint" />
+            <mxPoint x="2540" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-142" value="&lt;font face=&quot;Verdana&quot;&gt;plan 6.2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the users want to return goods, do 6.2.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the users want to exchange, do 6.2.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the order has not been shipped, allow 6.2.3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; if the order has problems, allow 6.2.4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2145" y="1360" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-143" value="&lt;font face=&quot;Verdana&quot;&gt;plan 6.2.1&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 6.2.1.1 - 6.2.1.2 - 6.2.1.3 - 6.2.1.4&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
+          <mxGeometry x="1887.5" y="1510" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5FiifpwVy0fxvkNEPwC-144" value="&lt;font face=&quot;Verdana&quot;&gt;plan 6.2.2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 6.2.2.1 - 6.2.2.2 - 6.2.2.3 - 6.2.2.4&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="1510" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-1" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.3.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;change or cancel the order&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66b2ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-2" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.4.&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;problematic orders&lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66b2ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2420" y="1520" as="sourcePoint" />
+            <mxPoint x="2540" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-5" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.4.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;contact customer service&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66b2ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="GkUSuG0QqaB28RqsyGLk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2680" y="1730" as="sourcePoint" />
+            <mxPoint x="2680" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2590" y="1730" as="sourcePoint" />
+            <mxPoint x="2710" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2590" y="1810" as="sourcePoint" />
+            <mxPoint x="2710" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-9" value="&lt;font face=&quot;Verdana&quot;&gt;plan 6.2.4&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; do 6.2.4.1&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-11" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.1.1.&lt;/font&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;submit a request&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66b2ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550" y="1630" as="sourcePoint" />
+            <mxPoint x="2670" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-13" value="&lt;font face=&quot;Verdana&quot;&gt;6.2.2.1.&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;submit a request&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#66b2ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GkUSuG0QqaB28RqsyGLk-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2700" y="1720" as="sourcePoint" />
+            <mxPoint x="2820" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

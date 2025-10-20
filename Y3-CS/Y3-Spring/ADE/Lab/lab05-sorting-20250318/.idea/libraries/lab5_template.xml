@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab5_template">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab5_template.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

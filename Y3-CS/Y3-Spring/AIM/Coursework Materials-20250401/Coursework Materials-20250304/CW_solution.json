@@ -1,0 +1,62 @@
+[
+    {
+        "name": "instance_1",
+        "capacity": 16,
+        "bins_used": 53,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_2",
+        "capacity": 14,
+        "bins_used": 60,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_3",
+        "capacity": 17,
+        "bins_used": 25,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_4",
+        "capacity": 17,
+        "bins_used": 28,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_5",
+        "capacity": 14,
+        "bins_used": 48,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_6",
+        "capacity": 13,
+        "bins_used": 50,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_7",
+        "capacity": 13,
+        "bins_used": 37,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_8",
+        "capacity": 16,
+        "bins_used": 53,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_large_9",
+        "capacity": 13,
+        "bins_used": 418,
+        "bin_assignment": null
+    },
+    {
+        "name": "instance_large_10",
+        "capacity": 16,
+        "bins_used": 376,
+        "bin_assignment": null
+    }
+]

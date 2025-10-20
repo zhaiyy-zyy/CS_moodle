@@ -1,0 +1,3 @@
+public enum LorryState {
+	INUSE, AVAILABLE, MAINTENANCE, LOCKEDAWAY
+}

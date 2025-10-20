@@ -1,0 +1,6 @@
+Lorry 4
+Ship 1
+Lorry 6
+Train 2
+Lorry 8
+Lorry 10

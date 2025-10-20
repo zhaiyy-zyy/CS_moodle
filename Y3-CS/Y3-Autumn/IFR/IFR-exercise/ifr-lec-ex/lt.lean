@@ -1,0 +1,137 @@
+/-
+COMP2068-IFR Extra Exercise
+(Less than <)
+
+The goal is to prove some properties of < on the natural numbers:
+
+-/
+set_option pp.structure_projections false
+
+namespace ee1
+ 
+open nat
+
+/- from the lecture: 
+  defn of + and proof that it is a commutative monoid.
+-/
+
+def add : ℕ → ℕ → ℕ 
+| n zero := n
+| n (succ m) := succ (add n m)
+
+local notation (name := add) m + n := add m n
+/-
+If you get an error update your lean or use:
+local notation m + n := add m n 
+-/
+
+theorem lneutr : ∀ n : ℕ, 0 + n = n :=
+begin
+ assume n,
+ induction n with n' ih,
+ reflexivity,
+ dsimp [(+)],
+ rewrite ih,
+end
+
+theorem rneutr : ∀ n : ℕ, n + 0 = n :=
+begin
+  assume n,
+  dsimp [(+),add],
+  reflexivity
+end
+
+theorem assoc : ∀ l m n : ℕ, 
+    (l + m) + n = l + (m + n) :=
+begin
+  assume l m n,
+  induction n with n' ih,
+  dsimp [(+),add],
+  reflexivity,
+  dsimp [(+),add],
+  rewrite ih,
+end   
+
+lemma add_succ : ∀ m n : ℕ,
+  (succ m) + n = succ (m + n) :=
+begin
+  assume m n,
+  induction n with n' ih,
+  dsimp [(+),add],
+  reflexivity,
+  dsimp [(+),add],
+  rewrite ih,
+end
+
+theorem comm : ∀ m n : ℕ , m + n = n + m :=
+begin
+  assume m n,
+  induction n with n' ih,
+  dsimp [(+),add],
+  rewrite lneutr,
+  dsimp [(+),add],
+  rewrite add_succ,
+  rewrite ih,
+end
+
+-- from the lecture : definition of ≤ .
+
+def le(m n : ℕ) : Prop :=
+  ∃ k : ℕ , k + m = n
+
+local notation (name := le) x ≤ y := le x y
+
+-- from the lecture : definition of < .
+def lt(m n : ℕ ) : Prop :=
+  m + 1 ≤ n
+
+local notation (name := lt) x < y := lt x y
+
+/-
+If you get an error update your lean or use:
+local notation x ≤ y := le x y 
+-/
+
+-- end of lecture material
+
+
+
+
+/- --- Do not add/change anything above this line (except the `local notation` syntax, if necessary) --- -/
+
+/- Prove the following properties of '<' -/
+
+
+-- < is not reflexitive, i.e., ∀ n :ℕ, ¬ (n < n)
+theorem lt_refl : ∀ n : ℕ, ¬ (n < n) :=
+begin
+  assume n,
+  
+end
+
+
+-- < is transitive
+-- ∀ l m n : ℕ, l < m → m < n → l < n 
+theorem lt_trans : ∀ l m n : ℕ, l < m → m < n → l < n :=
+begin
+  sorry,
+end 
+
+
+-- < is asymmetry 
+-- ∀ m n : ℕ, m < n →  n < m → false
+theorem lt_asym : ∀  m n : ℕ, m < n → n < m → false := 
+begin
+  sorry,
+end
+
+
+-- prove < is trichotomy
+theorem trich : ∀ m n : ℕ, m < n ∨ m = n ∨ n < m :=
+begin
+  sorry,
+end
+
+
+/- --- Do not add/change anything below this line --- -/
+end ee1
