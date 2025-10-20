@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% block title %} Price Statistics {% endblock %}
+{% set active_page = "statistics" %}
+{% block content %}
+
+<h1>Genre Statistics</h1>
+
+<!-- First we need to provide a form which the user can use to select a particular genre -->
+
+<form action="/statistics" method="post">
+    <div class="form-group">
+        <label for="genre">Select a Genre</label>
+        <select class="form-control" id="genre" name="genre">
+            <!-- Check if selected_genre_id is defined -->
+            {% if selected_genre_id is defined %}
+            {% for genre in genres %}
+                    <!-- Check if it's a "all" -->
+                    {% if genre["GenreId"] == 'all' %}
+                        <option value="all">All Genres</option>
+                    {% elif genre["GenreId"] | int == selected_genre_id | int %}
+                        <option value="{{ genre["GenreId"] }}" selected>{{ genre["Name"] }}</option>
+                    {% else %}
+                        <option value="{{ genre["GenreId"] }}">{{ genre["Name"] }}</option>
+                    {% endif %}
+                {% endfor %}
+            <!-- If it's not defined, then we need to set the "All Genres" option as selected -->
+            {% else %}
+            {% for genre in genres %}
+                <!-- Check if it's a "all" -->
+                {% if genre["GenreId"] == 'all' %}
+                    <option value="all" selected>All Genres</option>
+                {% else %}
+                    <option value="{{ genre["GenreId"] }}">{{ genre["Name"] }}</option>
+                {% endif %}
+            {% endfor %}
+            {% endif %}
+        </select>
+    </div>
+    <br/>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<!-- Only show the table if the user has submitted the form -->
+{% if stats is defined  and stats is not none %}
+<table class="table table-striped">
+    <thead>
+    <th>Price</th>
+    <th># Tracks </th>
+    <th># Albums</th>
+    <th># Artists</th>
+    <th>Duration<br/> (Seconds)</th>
+    <th>Total Value</th>
+    </thead>
+    <tr>
+        <td>{{ "%.2f"|format(stats["Price"]) }}</td>
+        <td>{{ stats["Tracks"] }}</td>
+        <td>{{ stats["Albums"] }}</td>
+        <td>{{ stats["Artists"] }}</td>
+        <!-- "%.0f" is used to round the number to the nearest integer -->
+        <td>{{ "%.0f"|format(stats["Duration"]) }}</td>
+        <!-- "%.2f" is a format string that will display the number with 2 decimal places -->
+        <td>{{ "%.2f"|format(stats["TotalValue"]) }}</td>
+    </tr>
+</table>
+
+{% endif %}
+
+<!--  Else show a centered message to the user, using bootstrap -->
+
+{% if stats is not defined %}
+    <br />
+    <div class="alert alert-info" role="alert">
+        <strong>Info:</strong> Please select a genre to view statistics.
+    </div>
+{% endif %}
+    
+{% endblock %}
+    

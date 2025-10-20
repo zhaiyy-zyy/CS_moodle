@@ -1,0 +1,238 @@
+Random Seed = 0
+Start Time:  20/02/2024 12:30:42
+Max End Time:  20/02/2024 12:30:52
+Number of Orders:  53
+Number of Vehicles:  25
+===================================================================================================================
+Iteration 0 Starts            	Time 12: 30:42
+Phase 0: Driver Assignment Starts	Time 12: 30:42
+- Driver Assignment starts   	Time 12: 30:42
+- Driver Assignment Ends     	Time 12: 30:42      	Elapsed Time (ms): 0
+Phase 0: Driver Assignment Ends	Time 12: 30:42      	Elapsed Time (ms): 0
+===================================================================================================================
+Phase 1: Construct Improved Solution Starts	Time 12: 30:42
+- Greedy Algorithm Starts    	Time 12: 30:42
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+* 	52000100040.0000	40.0000 	7.7333  	1       	52      	12:30:42
+* 	51000100075.0000	75.0000 	17.0667 	1       	51      	12:30:43
+* 	50000200116.0000	116.0000	24.7833 	2       	50      	12:30:43
+* 	49000200155.0000	155.0000	24.7833 	2       	49      	12:30:43
+* 	48000300226.0000	226.0000	30.1833 	3       	48      	12:30:43
+* 	47000300285.0000	285.0000	36.4000 	3       	47      	12:30:43
+* 	46000300341.0000	341.0000	37.1000 	3       	46      	12:30:43
+* 	45000300391.0000	391.0000	37.1000 	3       	45      	12:30:43
+* 	44000300395.0000	395.0000	39.4000 	3       	44      	12:30:43
+* 	43000300439.0000	439.0000	46.5833 	3       	43      	12:30:43
+* 	42000400483.0000	483.0000	58.9833 	4       	42      	12:30:43
+* 	41000500573.0000	573.0000	72.0000 	5       	41      	12:30:43
+* 	40000500616.0000	616.0000	75.9000 	5       	40      	12:30:43
+* 	39000500621.0000	621.0000	77.5833 	5       	39      	12:30:43
+* 	38000500731.0000	731.0000	80.5167 	5       	38      	12:30:43
+* 	37000600829.0000	829.0000	90.6333 	6       	37      	12:30:43
+* 	36000600833.0000	833.0000	92.1833 	6       	36      	12:30:43
+* 	35000700882.0000	882.0000	104.6333	7       	35      	12:30:43
+* 	34000700941.0000	941.0000	104.6333	7       	34      	12:30:43
+* 	33000801051.0000	1051.0000	119.8167	8       	33      	12:30:43
+* 	32000801053.0000	1053.0000	119.8167	8       	32      	12:30:43
+* 	31000801130.0000	1130.0000	119.8167	8       	31      	12:30:43
+* 	30000801136.0000	1136.0000	119.8167	8       	30      	12:30:43
+* 	29000801173.0000	1173.0000	119.8167	8       	29      	12:30:43
+* 	28000801178.0000	1178.0000	119.8167	8       	28      	12:30:43
+* 	27000901258.0000	1258.0000	128.3667	9       	27      	12:30:43
+* 	26000901328.0000	1328.0000	128.3667	9       	26      	12:30:43
+* 	25001001372.0000	1372.0000	140.5000	10      	25      	12:30:43
+* 	24001001415.0000	1415.0000	143.8667	10      	24      	12:30:43
+* 	23001001416.0000	1416.0000	145.4833	10      	23      	12:30:43
+* 	22001101500.0000	1500.0000	152.4167	11      	22      	12:30:43
+* 	21001101517.0000	1517.0000	158.1833	11      	21      	12:30:43
+* 	20001101526.0000	1526.0000	158.1833	11      	20      	12:30:43
+* 	19001201572.0000	1572.0000	167.5667	12      	19      	12:30:43
+* 	18001201664.0000	1664.0000	167.5667	12      	18      	12:30:43
+* 	17001201698.0000	1698.0000	167.5667	12      	17      	12:30:43
+* 	16001301733.0000	1733.0000	172.1667	13      	16      	12:30:43
+* 	15001301781.0000	1781.0000	182.0167	13      	15      	12:30:43
+* 	14001301794.0000	1794.0000	185.1000	13      	14      	12:30:43
+* 	13001301794.0000	1794.0000	186.6500	13      	13      	12:30:43
+* 	12001401858.0000	1858.0000	200.8500	14      	12      	12:30:43
+* 	11001401892.0000	1892.0000	200.8500	14      	11      	12:30:43
+* 	10001401942.0000	1942.0000	201.2833	14      	10      	12:30:43
+* 	9001401943.0000	1943.0000	202.8500	14      	9       	12:30:43
+* 	8001502019.0000	2019.0000	208.2500	15      	8       	12:30:43
+* 	7001502028.0000	2028.0000	215.9333	15      	7       	12:30:43
+* 	6001502029.0000	2029.0000	215.9333	15      	6       	12:30:43
+* 	5001502034.0000	2034.0000	215.9333	15      	5       	12:30:43
+* 	4001602149.0000	2149.0000	226.3333	16      	4       	12:30:43
+* 	3001602154.0000	2154.0000	226.3667	16      	3       	12:30:43
+* 	2001602156.0000	2156.0000	227.9667	16      	2       	12:30:43
+- Greedy Algorithm Ends      	Time 12: 30:43      	Elapsed Time (ms): 21
+-- N0_Insert Starts          	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:43      	Elapsed Time (ms): 0              	Evaluations: 28             	Improvements: 0
+-- N1_Move Starts            	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+* 	2001602107.0000	2107.0000	231.9667	16      	2       	12:30:43
+* 	2001602104.0000	2104.0000	235.0833	16      	2       	12:30:43
+* 	2001602094.0000	2094.0000	239.7667	16      	2       	12:30:43
+* 	2001602024.0000	2024.0000	239.7667	16      	2       	12:30:43
+* 	2001602022.0000	2022.0000	236.1333	16      	2       	12:30:43
+* 	2001602012.0000	2012.0000	236.1333	16      	2       	12:30:43
+* 	2001601923.0000	1923.0000	236.1333	16      	2       	12:30:43
+* 	2001601914.0000	1914.0000	226.7000	16      	2       	12:30:43
+* 	2001601853.0000	1853.0000	222.0667	16      	2       	12:30:43
+* 	2001601772.0000	1772.0000	222.1333	16      	2       	12:30:43
+* 	2001601736.0000	1736.0000	222.1333	16      	2       	12:30:43
+* 	2001601734.0000	1734.0000	226.3833	16      	2       	12:30:43
+* 	2001501631.0000	1631.0000	214.3500	15      	2       	12:30:43
+* 	2001501615.0000	1615.0000	211.8000	15      	2       	12:30:43
+* 	2001501612.0000	1612.0000	209.5000	15      	2       	12:30:43
+* 	2001501542.0000	1542.0000	209.9000	15      	2       	12:30:43
+* 	2001501514.0000	1514.0000	209.9000	15      	2       	12:30:43
+* 	2001501484.0000	1484.0000	217.8833	15      	2       	12:30:43
+* 	2001501480.0000	1480.0000	216.3000	15      	2       	12:30:43
+* 	2001501473.0000	1473.0000	216.3000	15      	2       	12:30:43
+* 	2001501401.0000	1401.0000	212.0500	15      	2       	12:30:43
+* 	2001501378.0000	1378.0000	214.2167	15      	2       	12:30:43
+* 	2001501373.0000	1373.0000	214.2167	15      	2       	12:30:43
+* 	2001401362.0000	1362.0000	207.4667	14      	2       	12:30:43
+-- N1_Move Ends              	Time 12: 30:43      	Elapsed Time (ms): 31             	Evaluations: 2188           	Improvements: 24
+-- N2_Swap Starts            	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+* 	2001401303.0000	1303.0000	207.4667	14      	2       	12:30:43
+* 	2001401302.0000	1302.0000	207.5833	14      	2       	12:30:43
+* 	2001401301.0000	1301.0000	204.5167	14      	2       	12:30:43
+-- N2_Swap Ends              	Time 12: 30:43      	Elapsed Time (ms): 36             	Evaluations: 1309           	Improvements: 3
+-- N3_TwoMove Starts         	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N3_TwoMove Ends           	Time 12: 30:43      	Elapsed Time (ms): 109            	Evaluations: 6357           	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:43      	Elapsed Time (ms): 0              	Evaluations: 35             	Improvements: 0
+-- N1_Move Starts            	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+* 	2001401299.0000	1299.0000	207.4667	14      	2       	12:30:43
+-- N1_Move Ends              	Time 12: 30:43      	Elapsed Time (ms): 5              	Evaluations: 413            	Improvements: 1
+-- N2_Swap Starts            	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N2_Swap Ends              	Time 12: 30:43      	Elapsed Time (ms): 7              	Evaluations: 240            	Improvements: 0
+-- N3_TwoMove Starts         	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N3_TwoMove Ends           	Time 12: 30:43      	Elapsed Time (ms): 71             	Evaluations: 3222           	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:43      	Elapsed Time (ms): 0              	Evaluations: 35             	Improvements: 0
+Phase 1: Construct Improved Solution Ends	Time 12: 30:43      	Elapsed Time (ms): 0
+===================================================================================================================
+Phase 2: Main Search Starts   	Time 12: 30:43
+- Ejection Algorithm Starts  	Time 12: 30:43
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:52      	Elapsed Time (ms): 9644           	Evaluations: 132143         	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:52
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:52      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:52
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:52      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Phase 2: Main Search Ends     	Time 12: 30:52      	Elapsed Time (ms): 0
+===================================================================================================================
+Iteration 0 Ends              	Time 12: 30:52      	Elapsed Time (ms): 2
+Iteration 1 Starts            	Time 12: 30:52
+- Ejection Algorithm Starts  	Time 12: 30:52
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 3              	Evaluations: 34             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 1 Ends              	Time 12: 30:53      	Elapsed Time (ms): 2
+Iteration 2 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 3              	Evaluations: 20             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 2 Ends              	Time 12: 30:53      	Elapsed Time (ms): 3
+Iteration 3 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 4              	Evaluations: 11             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 3 Ends              	Time 12: 30:53      	Elapsed Time (ms): 3
+Iteration 4 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 2              	Evaluations: 11             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 4 Ends              	Time 12: 30:53      	Elapsed Time (ms): 3
+Iteration 5 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 3              	Evaluations: 13             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 5 Ends              	Time 12: 30:53      	Elapsed Time (ms): 4
+Iteration 6 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 4              	Evaluations: 34             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 6 Ends              	Time 12: 30:53      	Elapsed Time (ms): 4
+Iteration 7 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 3              	Evaluations: 16             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 7 Ends              	Time 12: 30:53      	Elapsed Time (ms): 5
+Iteration 8 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 5              	Evaluations: 21             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 8 Ends              	Time 12: 30:53      	Elapsed Time (ms): 5
+Iteration 9 Starts            	Time 12: 30:53
+- Ejection Algorithm Starts  	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+- Ejection Algorithm Ends    	Time 12: 30:53      	Elapsed Time (ms): 4              	Evaluations: 23             	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+-- N0_Insert Starts          	Time 12: 30:53
+obj. 	Dist. 	Duty(h) 	Vehicles 	Unassigned 	ElapsedTime
+-- N0_Insert Ends            	Time 12: 30:53      	Elapsed Time (ms): 0              	Evaluations: 0              	Improvements: 0
+Iteration 9 Ends              	Time 12: 30:53      	Elapsed Time (ms): 6
+Solver Ends                   	Time 12: 30:53
+* 	2001401299.0000	1299.0000	207.4667	14      	2       	12:30:53

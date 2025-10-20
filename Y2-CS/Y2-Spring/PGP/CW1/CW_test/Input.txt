@@ -1,0 +1,12 @@
+Iteration 1 Starts                    Time 14: 16:56
+Phase 1: Main Search Starts           Time 14: 16:56
+- Ejection Algorithm Starts          Time 14: 16:56
+obj.         Dist.         Duty(h)         Vehicles         Unassigned         ElapsedTime
+*         19164420061.0000        61.0000         3.6000          1               17              14:16:56
+- Ejection Algorithm Ends            Time 14: 16:56              Elapsed Time (ms): 46                     Evaluations: 3183                   Improvements: 0
+-- N0_Insert Starts                  Time 14: 16:56
+obj.         Dist.         Duty(h)         Vehicles         Unassigned         ElapsedTime
+-- N0_Insert Ends                    Time 14: 16:56              Elapsed Time (ms): 1                      Evaluations: 68
+- Ejection Algorithm Starts          Time 14: 16:56
+obj.         Dist.         Duty(h)         Vehicles         Unassigned         ElapsedTime
+- Ejection Algorithm Ends            Time 14: 16:56              Elapsed Time (ms): 40                     Evaluations: 3081  

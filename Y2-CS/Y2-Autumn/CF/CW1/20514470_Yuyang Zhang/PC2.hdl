@@ -1,0 +1,13 @@
+CHIP PC2 {
+    IN in[2],load,inc,reset;
+    OUT out[2];
+
+    PARTS:
+    Inc2(in=loop,out=out1);
+
+    Mux2(a=loop,b=out1,sel=inc,out=incout);
+    Mux2(a=incout,b=in,sel=load,out=loadout);
+    Mux2(a=loadout,b=false,sel=reset,out=regout);
+
+    Register2(in=regout,load=true,out=loop,out=out);
+}

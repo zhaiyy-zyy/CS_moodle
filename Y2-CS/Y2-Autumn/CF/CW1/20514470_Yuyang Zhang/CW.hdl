@@ -1,0 +1,76 @@
+// scyyz26 20514470 Yuyang Zhang
+// Filename: CW.hdl
+/*
+ *  
+ * it is the main chip to finish the cw
+*/
+
+CHIP CW{
+    IN 
+        inID[16], inMARK[16],
+        load,
+        probe,
+        address[2],
+        sl,
+        priority[2];
+    OUT
+        outID[16],
+        outMARK[16],
+        sum[16],
+        avg[16],
+        overflow;
+
+    PARTS:
+    
+    // Select input inID address(a0, b0, c0, d0) and store inID in specific register
+    DMux4Way(in=load, sel=Address, a=a0, b=b0, c=c0, d=d0);
+    Register(in=inID, load=a0, out=outID0);
+    Register(in=inID, load=b0, out=outID1);
+    Register(in=inID, load=c0, out=outID2);
+    Register(in=inID, load=d0, out=outID3);
+    
+    // Select input inMARK address(a1, b1, c1, d1) and store inMARK in specific register
+    DMux4Way(in=load, sel=Address, a=a1, b=b1, c=c1, d=d1);
+    Register(in=inMARK, load=a1, out=outMARK0);
+    Register(in=inMARK, load=b1, out=outMARK1);
+    Register(in=inMARK, load=c1, out=outMARK2);
+    Register(in=inMARK, load=d1, out=outMARK3);
+    
+    
+    // Task2: Sequential Load 
+    PC2(in=loop, load=false, inc=sl, reset=false, out=sladdress, out=loop);
+    And(a=load, b=sl, out=Load1);
+    Mux2(a=address, b=sladdress, sel=Load1, out=Address);
+    
+    //based probe and priority to select outMARK
+    Not(in=priority[0], out=notPriority0);
+    Not(in=priority[1], out=notPriority1);
+    And(a=notPriority0, b=notPriority1, out=noload);
+    And(a=probe, b=noload, out=load3);
+    
+    // Task3: Sum of the Mark
+    Add16(a=outMARK0, b=outMARK1, out=sum1);
+    Add16(a=outMARK2, b=outMARK3, out=sum2);
+    Add16Carry(a=sum1, b=sum2, out=sum12, carry=carry);
+    Mux4Way16(a=false, b=sum12, c=false, d=false, sel=priority, out=sum);
+    Mux(a=false, b=true, sel=carry, out=overflow);
+    
+    // Task4: Simple Average of the Mark
+    Divideby4(sum=sum12, avg=avg0);
+    And(a=probe, b=priority[1], out=load4);
+    Divideby2(sum=sum12, avg=avg1);
+    Mux16(a=avg0, b=avg1, sel=priority[0], out=finalAvg);
+    
+   
+    
+    
+
+    
+    // Output
+    Mux4Way16(a=outID0, b=outID1, c=outID2, d=outID3, sel=address, out=out1);
+    Mux4Way16(a=outMARK0, b=outMARK1, c=outMARK2, d=outMARK3, sel=address, out=out2);
+    Mux16(a=false, b=out1, sel=load3, out=outID);
+    Mux16(a=false, b=out2, sel=load3, out=outMARK);
+    Mux16(a=false, b=finalAvg, sel=load4, out=avg);
+    
+}  

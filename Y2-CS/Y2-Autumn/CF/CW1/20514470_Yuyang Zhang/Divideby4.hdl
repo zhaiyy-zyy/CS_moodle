@@ -1,0 +1,9 @@
+CHIP Divideby4 {
+    IN sum[16];
+    OUT avg[16];
+
+    PARTS:
+    RightShift16(in=sum, out=avg);
+    
+   
+}

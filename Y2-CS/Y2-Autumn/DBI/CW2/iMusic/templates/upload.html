@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title %} Upload a CSV with Artist Data {% endblock %}
+{% set active_page = 'upload' %}
+{% block content %}
+
+<h1>Upload a TSV with Artist Data</h1>
+
+<!-- Only accept CSVs -->
+<form action="/upload/" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".tsv">
+    <input type="submit" value="Upload">
+</form>
+
+{% endblock %}

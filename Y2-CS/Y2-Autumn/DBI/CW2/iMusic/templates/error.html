@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block title %} Oops! There was an error ... {% endblock %}
+{% block content %}
+<h1 class="text-center">Oops! There was an error ...</h1>
+{% if messages %}
+<div class="alert alert-danger alert fade show" role="danger">
+    <!-- If only one message, make it big -->
+    {% if messages|length == 1 %}
+    <h3>{{ messages[0] }}</h3>
+    {% else %}
+    <ul>
+        {% for message in messages %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
+{% endif %}
+{% endblock %}

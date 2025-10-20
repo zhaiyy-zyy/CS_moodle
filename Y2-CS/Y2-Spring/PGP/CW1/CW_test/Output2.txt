@@ -1,0 +1,28 @@
+Iteration,Phase,Algorithm,Elapsed Time (ms),Evaluations,Improvements
+0,0,Driver Assignment,0,0,0
+0,1,Greedy Algorithm,21,0,0
+0,1,N0_Insert,0,98,0
+0,1,N1_Move,36,2601,25
+0,1,N2_Swap,43,1549,3
+0,1,N3_TwoMove,180,9579,0
+0,2,Ejection Algorithm,9644,132143,0
+0,2,N0_Insert,0,0,0
+1,0,Ejection Algorithm,3,34,0
+1,0,N0_Insert,0,0,0
+2,0,Ejection Algorithm,3,20,0
+2,0,N0_Insert,0,0,0
+3,0,Ejection Algorithm,4,11,0
+3,0,N0_Insert,0,0,0
+4,0,Ejection Algorithm,2,11,0
+4,0,N0_Insert,0,0,0
+5,0,Ejection Algorithm,3,13,0
+5,0,N0_Insert,0,0,0
+6,0,Ejection Algorithm,4,34,0
+6,0,N0_Insert,0,0,0
+7,0,Ejection Algorithm,3,16,0
+7,0,N0_Insert,0,0,0
+8,0,Ejection Algorithm,5,21,0
+8,0,N0_Insert,0,0,0
+9,0,Ejection Algorithm,4,23,0
+9,0,N0_Insert,0,0,0
+-1,-1,All,9955,146153,28

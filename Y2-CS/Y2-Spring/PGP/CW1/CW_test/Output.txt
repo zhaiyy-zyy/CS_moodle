@@ -1,0 +1,4 @@
+Iteration,Phase,Algorithm,Elapsed Time (ms),Evaluations,Improvements
+1,1,Ejection Algorithm,86,6264,0
+1,1,N0_Insert,1,68,0
+-1,-1,All,87,6332,0

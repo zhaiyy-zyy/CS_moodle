@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %} Home Page {%  endblock %}
+{% set active_page = "index" %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-md">
+      <img src="{{ url_for('static', filename='img/cover.jpeg') }}" style="width:70%; height: auto;">
+    </div>
+    <div class="col-sm">
+      <div class="jumbotron">
+          <h1 class="display-4">Welcome to the iMusic Collection System!</h1>
+          <hr class="my-4">
+          <p class="alert-danger">
+            The system is under active development!
+            Things might be a little unstable!
+        </p>
+        </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
